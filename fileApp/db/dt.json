@@ -1,0 +1,24 @@
+[
+    {
+      "avatar": "https://avatars.githubusercontent.com/u/88936471?v=4",
+      "name": "Roman Hyrych",
+      "isOnline": true,
+      "id": 1812,
+      "githubLink": "https://github.com/romanlancer/"
+    },
+    {
+      "avatar": "https://avatars.githubusercontent.com/u/88936471?v=4",
+      "name": "Asya",
+      "isOnline": false,
+      "id": 1800,
+      "githubLink": "https://github.com/romanlancer/"
+    },
+    {
+      "avatar": "https://avatars.githubusercontent.com/u/88936471?v=4",
+      "name": "Nastya",
+      "isOnline": true,
+      "id": 1811,
+      "githubLink": "https://github.com/romanlancer/"
+    }
+  ]
+  
